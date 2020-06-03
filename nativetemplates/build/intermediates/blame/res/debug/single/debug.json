@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\build\\intermediates\\res\\merged\\debug\\drawable_gnt_rounded_corners_shape.xml.flat",
+        "source": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\src\\main\\res\\drawable\\gnt_rounded_corners_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\build\\intermediates\\res\\merged\\debug\\layout_gnt_medium_template_view.xml.flat",
+        "source": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\src\\main\\res\\layout\\gnt_medium_template_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\build\\intermediates\\res\\merged\\debug\\layout_gnt_small_template_view.xml.flat",
+        "source": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\src\\main\\res\\layout\\gnt_small_template_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\build\\intermediates\\res\\merged\\debug\\drawable_gnt_outline_shape.xml.flat",
+        "source": "C:\\Users\\super\\Desktop\\Digital\\AdmobNativeAds\\nativetemplates\\src\\main\\res\\drawable\\gnt_outline_shape.xml"
+    }
+]

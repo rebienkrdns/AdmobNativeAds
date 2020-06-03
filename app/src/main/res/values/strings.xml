@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdmobNativeAds</string>
+    <string name="admob_app">ca-app-pub-5111916491779586~9661465193</string>
+    <string name="admob_ad">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
