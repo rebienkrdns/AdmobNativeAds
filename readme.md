@@ -10,5 +10,4 @@ Usando las plantillas de anuncios nativos | Using the native ad templates
 
 Gracias  **[Josh Sorenson](https://www.pexels.com/es-es/@joshsorenson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** en **[Pexels](https://www.pexels.com/es-es/foto/adentro-altavoces-conexion-contemporaneo-1714208/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** | Thanks  **[Josh Sorenson](https://www.pexels.com/es-es/@joshsorenson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** in **[Pexels](https://www.pexels.com/es-es/foto/adentro-altavoces-conexion-contemporaneo-1714208/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**
 
-![enter image description here](https://github.com/rebienkrdns/[AdmobNativeAds](https://github.com/rebienkrdns/AdmobNativeAds/raw/master/capture.jpeg)
-
+<img src="https://github.com/rebienkrdns/AdmobNativeAds/raw/master/capture.jpeg" />
